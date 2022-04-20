@@ -1,0 +1,445 @@
+{
+    "access": null,
+    "accountId": "6255ad367fa6b94583fd2dbf",
+    "actual": 0,
+    "assignee": {
+        "accountId": "6255ad367fa6b94583fd2dbf",
+        "avatar": "",
+        "color": "",
+        "email": "svetozar.s.stanchev@gtmhub.online",
+        "id": "6255ad367fa6b94583fd2dc0",
+        "isActive": true,
+        "name": "Svetozar Stanchev",
+        "picture": "https://s.gravatar.com/avatar/c85ce4b7d7ae724997871563d6595f33?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fsv.png",
+        "type": "user"
+    },
+    "assignees": [
+        {
+            "accountId": "6255ad367fa6b94583fd2dbf",
+            "avatar": "",
+            "color": "",
+            "email": "svetozar.s.stanchev@gtmhub.online",
+            "id": "6255ad367fa6b94583fd2dc0",
+            "isActive": true,
+            "name": "Svetozar Stanchev",
+            "picture": "https://s.gravatar.com/avatar/c85ce4b7d7ae724997871563d6595f33?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fsv.png",
+            "type": "user"
+        }
+    ],
+    "attainment": 0,
+    "cascadeType": "",
+    "createdById": "6255ad367fa6b94583fd2dc0",
+    "critical": null,
+    "dateCreated": "2022-04-12T18:19:21.156Z",
+    "dueDate": "0001-01-01T00:00:00Z",
+    "dynamic": false,
+    "fieldName": "",
+    "format": {
+        "fractionSize": 0,
+        "prefix": "",
+        "suffix": "features"
+    },
+    "goalAttainment": 0,
+    "goalClosedStatus": {
+        "status": "active"
+    },
+    "goalDescription": "",
+    "goalId": "6255c271c953fa0001a094ed",
+    "goalOwnerId": "625bdb63474a301d1f067a97",
+    "goalOwnerIds": [
+        "625bdb63474a301d1f067a97"
+    ],
+    "initialValue": 0,
+    "insightName": "",
+    "manualType": "double",
+    "metricHistory": [],
+    "name": "Implement 5 features",
+    "numberOfOwners": 1,
+    "obfuscated": false,
+    "orderId": 1,
+    "ownerId": "623c7be1512d710001b51eeb",
+    "ownerIds": [
+        "623c7be1512d710001b51eeb"
+    ],
+    "progressStatus": "bad",
+    "reminderSchedule": {
+        "active": false,
+        "day": "",
+        "email": "",
+        "type": ""
+    },
+    "sessionId": "625bdb63474a301d1f067a97",
+    "settings": [],
+    "softDueDate": "0001-01-01T00:00:00Z",
+    "target": 5,
+    "targetOperator": "at_least",
+    "trend": [
+        {
+            "date": "1 Apr 2022",
+            "projected": 0.054945054945054944
+        },
+        {
+            "date": "2 Apr 2022",
+            "projected": 0.10989010989010989
+        },
+        {
+            "date": "3 Apr 2022",
+            "projected": 0.16483516483516483
+        },
+        {
+            "date": "4 Apr 2022",
+            "projected": 0.21978021978021978
+        },
+        {
+            "date": "5 Apr 2022",
+            "projected": 0.27472527472527475
+        },
+        {
+            "date": "6 Apr 2022",
+            "projected": 0.3296703296703297
+        },
+        {
+            "date": "7 Apr 2022",
+            "projected": 0.3846153846153847
+        },
+        {
+            "date": "8 Apr 2022",
+            "projected": 0.43956043956043966
+        },
+        {
+            "date": "9 Apr 2022",
+            "projected": 0.49450549450549464
+        },
+        {
+            "date": "10 Apr 2022",
+            "projected": 0.5494505494505496
+        },
+        {
+            "date": "11 Apr 2022",
+            "projected": 0.6043956043956046
+        },
+        {
+            "date": "12 Apr 2022",
+            "projected": 0.6593406593406596
+        },
+        {
+            "date": "13 Apr 2022",
+            "projected": 0.7142857142857145
+        },
+        {
+            "date": "14 Apr 2022",
+            "projected": 0.7692307692307695
+        },
+        {
+            "date": "15 Apr 2022",
+            "projected": 0.8241758241758245
+        },
+        {
+            "date": "16 Apr 2022",
+            "projected": 0.8791208791208794
+        },
+        {
+            "date": "17 Apr 2022",
+            "projected": 0.9340659340659344
+        },
+        {
+            "date": "18 Apr 2022",
+            "projected": 0.9890109890109894
+        },
+        {
+            "date": "19 Apr 2022",
+            "projected": 1.0439560439560442
+        },
+        {
+            "date": "20 Apr 2022",
+            "projected": 1.0989010989010992
+        },
+        {
+            "date": "21 Apr 2022",
+            "projected": 1.1538461538461542
+        },
+        {
+            "date": "22 Apr 2022",
+            "projected": 1.2087912087912092
+        },
+        {
+            "date": "23 Apr 2022",
+            "projected": 1.2637362637362641
+        },
+        {
+            "date": "24 Apr 2022",
+            "projected": 1.318681318681319
+        },
+        {
+            "date": "25 Apr 2022",
+            "projected": 1.373626373626374
+        },
+        {
+            "date": "26 Apr 2022",
+            "projected": 1.428571428571429
+        },
+        {
+            "date": "27 Apr 2022",
+            "projected": 1.483516483516484
+        },
+        {
+            "date": "28 Apr 2022",
+            "projected": 1.538461538461539
+        },
+        {
+            "date": "29 Apr 2022",
+            "projected": 1.593406593406594
+        },
+        {
+            "date": "30 Apr 2022",
+            "projected": 1.648351648351649
+        },
+        {
+            "date": "1 May 2022",
+            "projected": 1.703296703296704
+        },
+        {
+            "date": "2 May 2022",
+            "projected": 1.7582417582417589
+        },
+        {
+            "date": "3 May 2022",
+            "projected": 1.8131868131868139
+        },
+        {
+            "date": "4 May 2022",
+            "projected": 1.8681318681318688
+        },
+        {
+            "date": "5 May 2022",
+            "projected": 1.9230769230769238
+        },
+        {
+            "date": "6 May 2022",
+            "projected": 1.9780219780219788
+        },
+        {
+            "date": "7 May 2022",
+            "projected": 2.0329670329670337
+        },
+        {
+            "date": "8 May 2022",
+            "projected": 2.0879120879120885
+        },
+        {
+            "date": "9 May 2022",
+            "projected": 2.1428571428571432
+        },
+        {
+            "date": "10 May 2022",
+            "projected": 2.197802197802198
+        },
+        {
+            "date": "11 May 2022",
+            "projected": 2.2527472527472527
+        },
+        {
+            "date": "12 May 2022",
+            "projected": 2.3076923076923075
+        },
+        {
+            "date": "13 May 2022",
+            "projected": 2.3626373626373622
+        },
+        {
+            "date": "14 May 2022",
+            "projected": 2.417582417582417
+        },
+        {
+            "date": "15 May 2022",
+            "projected": 2.4725274725274717
+        },
+        {
+            "date": "16 May 2022",
+            "projected": 2.5274725274725265
+        },
+        {
+            "date": "17 May 2022",
+            "projected": 2.5824175824175812
+        },
+        {
+            "date": "18 May 2022",
+            "projected": 2.637362637362636
+        },
+        {
+            "date": "19 May 2022",
+            "projected": 2.6923076923076907
+        },
+        {
+            "date": "20 May 2022",
+            "projected": 2.7472527472527455
+        },
+        {
+            "date": "21 May 2022",
+            "projected": 2.8021978021978002
+        },
+        {
+            "date": "22 May 2022",
+            "projected": 2.857142857142855
+        },
+        {
+            "date": "23 May 2022",
+            "projected": 2.9120879120879097
+        },
+        {
+            "date": "24 May 2022",
+            "projected": 2.9670329670329645
+        },
+        {
+            "date": "25 May 2022",
+            "projected": 3.0219780219780192
+        },
+        {
+            "date": "26 May 2022",
+            "projected": 3.076923076923074
+        },
+        {
+            "date": "27 May 2022",
+            "projected": 3.1318681318681287
+        },
+        {
+            "date": "28 May 2022",
+            "projected": 3.1868131868131835
+        },
+        {
+            "date": "29 May 2022",
+            "projected": 3.2417582417582382
+        },
+        {
+            "date": "30 May 2022",
+            "projected": 3.296703296703293
+        },
+        {
+            "date": "31 May 2022",
+            "projected": 3.3516483516483477
+        },
+        {
+            "date": "1 Jun 2022",
+            "projected": 3.4065934065934025
+        },
+        {
+            "date": "2 Jun 2022",
+            "projected": 3.4615384615384572
+        },
+        {
+            "date": "3 Jun 2022",
+            "projected": 3.516483516483512
+        },
+        {
+            "date": "4 Jun 2022",
+            "projected": 3.5714285714285667
+        },
+        {
+            "date": "5 Jun 2022",
+            "projected": 3.6263736263736215
+        },
+        {
+            "date": "6 Jun 2022",
+            "projected": 3.6813186813186762
+        },
+        {
+            "date": "7 Jun 2022",
+            "projected": 3.736263736263731
+        },
+        {
+            "date": "8 Jun 2022",
+            "projected": 3.7912087912087857
+        },
+        {
+            "date": "9 Jun 2022",
+            "projected": 3.8461538461538405
+        },
+        {
+            "date": "10 Jun 2022",
+            "projected": 3.9010989010988952
+        },
+        {
+            "date": "11 Jun 2022",
+            "projected": 3.95604395604395
+        },
+        {
+            "date": "12 Jun 2022",
+            "projected": 4.010989010989005
+        },
+        {
+            "date": "13 Jun 2022",
+            "projected": 4.0659340659340595
+        },
+        {
+            "date": "14 Jun 2022",
+            "projected": 4.120879120879114
+        },
+        {
+            "date": "15 Jun 2022",
+            "projected": 4.175824175824169
+        },
+        {
+            "date": "16 Jun 2022",
+            "projected": 4.230769230769224
+        },
+        {
+            "date": "17 Jun 2022",
+            "projected": 4.2857142857142785
+        },
+        {
+            "date": "18 Jun 2022",
+            "projected": 4.340659340659333
+        },
+        {
+            "date": "19 Jun 2022",
+            "projected": 4.395604395604388
+        },
+        {
+            "date": "20 Jun 2022",
+            "projected": 4.450549450549443
+        },
+        {
+            "date": "21 Jun 2022",
+            "projected": 4.5054945054944975
+        },
+        {
+            "date": "22 Jun 2022",
+            "projected": 4.560439560439552
+        },
+        {
+            "date": "23 Jun 2022",
+            "projected": 4.615384615384607
+        },
+        {
+            "date": "24 Jun 2022",
+            "projected": 4.670329670329662
+        },
+        {
+            "date": "25 Jun 2022",
+            "projected": 4.7252747252747165
+        },
+        {
+            "date": "26 Jun 2022",
+            "projected": 4.780219780219771
+        },
+        {
+            "date": "27 Jun 2022",
+            "projected": 4.835164835164826
+        },
+        {
+            "date": "28 Jun 2022",
+            "projected": 4.890109890109881
+        },
+        {
+            "date": "29 Jun 2022",
+            "projected": 4.9450549450549355
+        },
+        {
+            "date": "30 Jun 2022",
+            "projected": 4.99999999999999
+        }
+    ],
+    "url": "https://account0010157.gtmhub.com/#/goals/6255ad367fa6b94583fd2dc2/all/6255c271c953fa0001a094ed/metrics/metric/6255c2a953e7e0000157924f/"
+}
+
+
